@@ -1,0 +1,11 @@
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.exe
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.deps.json
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.runtimeconfig.json
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.runtimeconfig.dev.json
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.dll
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\bin\Debug\netcoreapp3.1\HW EX1A - Seth.pdb
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\obj\Debug\netcoreapp3.1\HW EX1A - Seth.csprojAssemblyReference.cache
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\obj\Debug\netcoreapp3.1\HW EX1A - Seth.AssemblyInfoInputs.cache
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\obj\Debug\netcoreapp3.1\HW EX1A - Seth.AssemblyInfo.cs
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\obj\Debug\netcoreapp3.1\HW EX1A - Seth.dll
+D:\Sync\MSSA\ISTA 220 C#\HW EX1A\HW EX1A - Seth\HW EX1A - Seth\obj\Debug\netcoreapp3.1\HW EX1A - Seth.pdb

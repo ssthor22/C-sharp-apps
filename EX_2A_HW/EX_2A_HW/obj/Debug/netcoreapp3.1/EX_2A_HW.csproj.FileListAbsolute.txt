@@ -1,0 +1,11 @@
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\obj\Debug\netcoreapp3.1\EX_2A_HW.csprojAssemblyReference.cache
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\obj\Debug\netcoreapp3.1\EX_2A_HW.AssemblyInfoInputs.cache
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\obj\Debug\netcoreapp3.1\EX_2A_HW.AssemblyInfo.cs
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.exe
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.deps.json
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.runtimeconfig.json
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.runtimeconfig.dev.json
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.dll
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\bin\Debug\netcoreapp3.1\EX_2A_HW.pdb
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\obj\Debug\netcoreapp3.1\EX_2A_HW.dll
+C:\Users\Seth\OneDrive\MSSA\ISTA 220 C#\Codes\EX_2A_HW\EX_2A_HW\obj\Debug\netcoreapp3.1\EX_2A_HW.pdb
