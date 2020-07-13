@@ -1,1 +1,0 @@
-Code will accept user inputs in various different ways then calculate averages based on the inputted values
